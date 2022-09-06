@@ -23,3 +23,14 @@ si escribes en la casilla de búsqueda HTML5 y lo filtrará.
 __link :__ Sirve par enlazar documentos y hojas de estilo.
 
 ![Estructura del HTML](image/estructura_html.png)
+
+## Figure y figcaption
+
+__figure :__ Insertar elementos independientes pero estan relacionados pueden ir imagenes, videos etc..
+Para formatos en la etiqueta __img__ se aceptan png(8 y 16 bits), jpg(milomes de colores), gif(256 colores).
+Los __gifs y png__ admiten la transpareccia.
+
+
+__figcaption :__  Se usa para poner la descripción que llevará la imagen.
+
+![Tipos de etiquetas semanticas](image/tipos_etiqueta.png)
