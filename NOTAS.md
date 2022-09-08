@@ -34,3 +34,24 @@ Los __gifs y png__ admiten la transpareccia.
 __figcaption :__  Se usa para poner la descripción que llevará la imagen.
 
 ![Tipos de etiquetas semanticas](image/tipos_etiqueta.png)
+
+
+
+## Colocar el CSS
+
+1. En un archivo independiente  : Archivo independiente con extensión CSS.
+2. En la cabecera del documento HTML : Dentro de la etiqueta head.
+3. Dentro de la etiqueta : Estilo inline. Casos muy concretos.
+
+__Modelo caja contenedor__
+Hay dos tipos de etiquetas en HTML
+- Etiquetas Block : Generán un salto arriba y abajo y ocupan un 100% del ancho.
+- Etiquetas inline: No generan un salto de línea.
+
+La mayoría de las etiquetas de estructura son etiquetas block.
+
+__Selectores__
+
+- __selector de etiqueta__: Se usa el nombre de una etiqueta html por ejemplo body,header etc..
+- __Selector de id__: Para aplicar apariencia a un único elemento un elementos con el #.
+- __Selectores de clase__: 
